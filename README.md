@@ -73,6 +73,11 @@ Infos zu bestehenden Leihläden, Konzepten und Software.
 * https://leipzig.depot.social/
 * [Buchungs-System (depot.social)](https://leipzig.depot.social/ressourcen)
 
+#### Westhausener Geraetering "weShare"
+
+* https://westhausener-geraetering-weshare.de/
+* [Buchungs-System (WP & CommonsBooking)](https://westhausener-geraetering-weshare.de/geraeteliste)
+
 ### Österreich
 
 #### Leila Wien
