@@ -85,7 +85,7 @@ Infos zu bestehenden Leihläden, Konzepten und Software.
 * Homepage: https://www.leila.wien/
 * [Buchungs-System (myturn)](https://leilawien.myturn.com/library/inventory/browse?embed=false)
 
-### Scheiz
+### Schweiz
 
 #### Leibar Bern
 
@@ -176,6 +176,14 @@ Infos zu bestehenden Leihläden, Konzepten und Software.
 * Lizenz: AGPL-3.0
 * Code: Python, Nuxt.js
 * Video: https://www.youtube.com/watch?v=uHghZUpCn10
+
+#### Leihs (ZHDK)
+
+* Projekt & Repositories: https://github.com/leihs
+* Lizenz: GNU General Public License (GPL) v3
+* Code: Ruby
+* Doku: https://github.com/leihs/leihs/wiki
+* Demo: https://demo.leihs.zhdk.ch/
 
 #### LeihLokalVerwaltung
 
