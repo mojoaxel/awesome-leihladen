@@ -6,10 +6,10 @@ Infos zu bestehenden Leihläden, Konzepten und Software.
 
 ### Deutschland
 
-#### Teilbar Stuttgard
+#### Teilbar Stuttgart
   
 * Homepage: https://teilbar.eu/
-* Buchungs-System: https://teilbar.eu/teilraum/was-wir-teilen/
+* [Buchungs-System (WP & CommonsBooking)](https://teilbar.eu/teilraum/was-wir-teilen/)
 
 #### Leihladen Kiel
 
@@ -77,6 +77,16 @@ Infos zu bestehenden Leihläden, Konzepten und Software.
 
 * https://westhausener-geraetering-weshare.de/
 * [Buchungs-System (WP & CommonsBooking)](https://westhausener-geraetering-weshare.de/geraeteliste)
+
+#### Deleila (Lippe im Wandel)
+
+* https://lippeimwandel.de/leihkatalog/
+* [Buchungs-System (WP & CommonsBooking)](https://lippeimwandel.de/leihkatalog/)
+
+#### Leihla Fürth
+
+* https://leihla.bluepingu.de/
+* [Buchungs-System (WP & CommonsBooking)](https://leihla.bluepingu.de/)
 
 ### Österreich
 
