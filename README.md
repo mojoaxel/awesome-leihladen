@@ -156,11 +156,6 @@ Infos zu bestehenden Leihläden, Konzepten und Software.
 * https://rentware.io/vermietsoftware/geraeteverleih-allgemein/
 * Kommerzieller Anbieter
 
-#### LendEngine
-
-* https://www.lend-engine.com/
-* Kommerzieller Anbieter
-
 ### Open-Source Lösungen
 
 #### cosum
@@ -209,6 +204,12 @@ Infos zu bestehenden Leihläden, Konzepten und Software.
 * Code: PHP
 * Video: https://vimeo.com/147863167
 
+#### LendEngine
+
+* https://www.lend-engine.com/
+* Kommerzieller Anbieter
+* Repository: https://github.com/Repair-Share/lend-engine-app
+* Lizenz: MIT
 
 
 
